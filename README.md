@@ -197,7 +197,6 @@ exit
 * сериализации и десериализации JSON
 * организации простой многослойной архитектуры
 
-## Project URL
-https://github.com/lRasputinl/Task-Tracker-CLI
-
+## Источник идеи
+Идея проекта взята с:
 https://roadmap.sh/projects/task-tracker
